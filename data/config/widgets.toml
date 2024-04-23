@@ -8,15 +8,9 @@ logo = "/images/LAZERS.jpg"             # default: "/images/logo.png"
 [recent_posts]
 title = "Recent Blog Posts"                            # default: "Recent Posts"
 length = 5                            # default: 5
-excludeTypes = ["page", "notebooks"]               # default: ["page"]
+excludeTypes = ["page"]               # default: ["page"]
 
 # Social Menu Widget config
 [social_menu]
 title = ""                            # default: ""
 platforms = ["github","twitter","email"]
-
-# Taxonomy Cloud Widget config
-[taxonomy_cloud]
-title = ""                            # default: Plural Name for `taxonomyCloud.taxonomy`
-taxonomy = "tags"                     # default: "tags"
-shuffle = true                        # default: true

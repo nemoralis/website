@@ -1,15 +1,11 @@
-baseURL = "https://www.peterbaumgartner.com/"
-title = "Peter Baumgartner"
+baseURL = "https://neriman.me/"
+title = "Nəriman Məmmədli"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
 theme = "PaperMod"
 
-disqusShortname = ""
-googleAnalytics = "UA-72692144-1"
-
-Paginate = 15
-preserveTaxonomyNames = true
+googleAnalytics = "G-Q2HNRPMPDL"
 
 enableRobotsTXT = true # generate robots.txt
 
@@ -23,32 +19,32 @@ defaultContentLanguage = "en"
 
 [params.profileMode]
 enabled = true
-title = "Peter Baumgartner"
-subtitle = "Data Scientist & Machine Learning Engineer"
+title = "Nəriman Məmmədli"
+subtitle = "A random person"
 imageUrl = "https://i.ibb.co/LYz2DyQ/1537215809678.jpg"
-imageTitle = "Peter Baumgartner"
+imageTitle = "Nəriman Məmmədli"
 imageWidth = 120
 imageHeight = 120
 
-[[params.profileMode.buttons]]
-name = "blog"
-url = "/blog"
+# [[params.profileMode.buttons]]
+# name = "about"
+# url = "/about"
 
 [[params.socialIcons]]
 name = "twitter"
-url = "https://www.twitter.com/pmbaumgartner"
+url = "https://www.twitter.com/nerim4n"
 
 [[params.socialIcons]]
 name = "Github"
-url = "https://github.com/pmbaumgartner/"
+url = "https://github.com/nemoralis/"
 
 [[params.socialIcons]]
 name = "LinkedIn"
-url = "https://www.linkedin.com/in/peterbaumgartner/"
+url = "https://www.linkedin.com/in/mnerim4n/"
 
 [[params.socialIcons]]
-name = "Mastodon"
-url = "https://fosstodon.org/@pbaumgartner"
+name = "Instagram"
+url = "https://instagram.com/mnerim4n"
 
 [params.info]
 description = ""
@@ -91,9 +87,9 @@ page = "" # Twitter page username
 titleSeparator = "•"
 
 [params.social]
-email = "petermbaumgartner@gmail.com"
-github = "pmbaumgartner"
-twitter = "pmbaumgartner"
+email = "contact@neriman.me"
+github = "nemoralis"
+twitter = "nerim4n"
 
 [params.comments]
 enable = false
