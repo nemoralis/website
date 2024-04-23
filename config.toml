@@ -5,12 +5,7 @@ copyright = "CC-BY-SA 4.0"
 
 theme = "PaperMod"
 
-googleAnalytics = "G-Q2HNRPMPDL"
-
 enableRobotsTXT = true # generate robots.txt
-
-# Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
-pygmentsCodefences = true
 
 enableEmoji = true
 
