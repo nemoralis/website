@@ -34,12 +34,8 @@ name = "Github"
 url = "https://github.com/nemoralis/"
 
 [[params.socialIcons]]
-name = "LinkedIn"
-url = "https://www.linkedin.com/in/mnerim4n/"
-
-[[params.socialIcons]]
 name = "Instagram"
-url = "https://instagram.com/mnerim4n"
+url = "https://instagram.com/nerim4nm"
 
 [params.info]
 description = ""
