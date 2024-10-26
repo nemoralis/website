@@ -1,5 +1,5 @@
 baseURL = "https://neriman.me/"
-title = "Nəriman Məmmədli"
+title = "Nemoralis"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = "CC-BY-SA 4.0"
 
@@ -14,10 +14,10 @@ defaultContentLanguage = "en"
 
 [params.profileMode]
 enabled = true
-title = "Nəriman Məmmədli"
+title = "Nemoralis"
 subtitle = "A random person"
 imageUrl = "images/profile.jpg"
-imageTitle = "Nəriman Məmmədli"
+imageTitle = "Nemoralis"
 imageWidth = 120
 imageHeight = 120
 
@@ -26,12 +26,8 @@ imageHeight = 120
 # url = "/about"
 
 [[params.socialIcons]]
-name = "twitter"
-url = "https://www.twitter.com/nerim4n"
-
-[[params.socialIcons]]
 name = "Github"
-url = "https://github.com/nemoralis/"
+url = "https://github.com/nemoralis"
 
 [[params.socialIcons]]
 name = "Instagram"
@@ -80,7 +76,6 @@ titleSeparator = "•"
 [params.social]
 email = "contact@neriman.me"
 github = "nemoralis"
-twitter = "nerim4n"
 
 [params.comments]
 enable = false
