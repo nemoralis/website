@@ -3,7 +3,6 @@
 <head>
     {{- partial "head.html" . }}
 </head>
-<a rel="me" href="https://wikis.world/@neriman" />
 <body class="
 {{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) -}}
 {{- print "list" -}}
@@ -12,6 +11,7 @@
 {{- print " dark" }}
 {{- end -}}
 " id="top">
+<a rel="me" href="https://wikis.world/@neriman" />
     {{- partialCached "header.html" . .Page -}}
     <main class="main">
         {{- block "main" . }}{{ end }}
